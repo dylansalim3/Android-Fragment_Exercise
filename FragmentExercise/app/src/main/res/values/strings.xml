@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+    <string name="this_is_fragmentxml">This is FragmentLinkXML.</string>
+</resources>
